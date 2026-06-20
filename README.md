@@ -1,2 +1,14 @@
 # cnzone-2026worldcup-lab
-HTML page archive and documentation
+
+页面托管与归档说明
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
